@@ -17,7 +17,9 @@
  
  */
 // Answer question 2 below
-
+let nameOfTheAlbung = "Ukulele for the win"
+var copiesSold = 5000
+var suggestedSellingPrice = 20 
 /*:
  ## Now share your understanding
  
